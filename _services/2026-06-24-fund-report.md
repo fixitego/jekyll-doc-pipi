@@ -4,6 +4,8 @@ title: "基金晨報與配置建議 2026-06-24"
 date: 2026-06-24 08:30:00 +0800
 featured: true
 weight: 1
+prompt_version: "使用提示詞：台股技術分析版"
+prompt_url: "/services/使用提示詞/"
 categories:
   - fund
   - morning-report

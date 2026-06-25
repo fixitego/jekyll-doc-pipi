@@ -28,6 +28,11 @@ bodyClass: page-services-list
           <h2 class="service-title">
             <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
           </h2>
+          {% if service.prompt_version and service.prompt_url %}
+          <a class="service-prompt-version" href="{{ service.prompt_url | relative_url }}">
+            提示詞版本：{{ service.prompt_version }}
+          </a>
+          {% endif %}
           <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
         </div>
       </div>

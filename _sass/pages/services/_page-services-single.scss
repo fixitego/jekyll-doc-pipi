@@ -11,3 +11,26 @@
     }
   }
 }
+
+.service-prompt-version {
+  display: inline-block;
+  margin: 0 0 14px;
+  padding: 6px 10px;
+  border: 1px solid rgba($primary, .2);
+  border-radius: 4px;
+  color: darken($primary, 8%);
+  background: rgba($primary, .08);
+  font-size: 14px;
+  line-height: 1.3;
+  text-decoration: none;
+
+  &:hover {
+    color: darken($primary, 14%);
+    background: rgba($primary, .14);
+    text-decoration: none;
+  }
+}
+
+.service-prompt-version-large {
+  margin-bottom: 24px;
+}

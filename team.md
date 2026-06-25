@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Our team of financial consultants helps clients navigate every stage of their wealth journey.
+專業的團隊，來自專業的小狗汪汪隊，請大力餵食。

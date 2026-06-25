@@ -7,6 +7,11 @@ layout: default
     <div class="col-12 col-md-8">
       <div class="service service-single">
         <h1 class="title">{{page.title}}</h1>
+        {% if page.prompt_version and page.prompt_url %}
+        <a class="service-prompt-version service-prompt-version-large" href="{{ page.prompt_url | relative_url }}">
+          提示詞版本：{{ page.prompt_version }}
+        </a>
+        {% endif %}
         <div class="content">{{content}}</div>
       </div>
     </div>
