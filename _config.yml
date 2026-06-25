@@ -1,6 +1,6 @@
 baseurl: '/jekyll-doc-pipi/'
 permalink: pretty
-title: 'Financial Consultant Yen'
+title: 'Financial Consultant YenYen'
 
 google_analytics_id: ""
 
@@ -9,14 +9,14 @@ homepage:
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
-  desktop: "images/logo/logo.svg"
+  desktop: "images/logo/logo.png"
   desktop_height: "36px"
 
 footer:
-  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+  copyright_text: 'For YenYenYenYen <a class="zerostatic" href="https://fixitego.github.io/jekyll-doc-pipi/">fixitego.github.io/jekyll-doc-pipi</a>'
 
 seo:
-  meta_og_title: "Financial Consultant Yen"
+  meta_og_title: "Financial Consultant YenYen"
   meta_og_type: "website"
   meta_og_url: "https://fixitego.github.io/jekyll-doc-pipi/"
 

@@ -1,5 +1,5 @@
 ---
-title: Financial Consultant Yen
+title: Financial Consultant YenYen
 layout: home
 description: Financial Consultant
 intro_image: "images/illustrations/pointing.svg"
