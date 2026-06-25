@@ -4,13 +4,14 @@ layout: contact
 bodyClass: page-contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+If you'd like to discuss a portfolio review, retirement plan, or client presentation, get in touch and we'll set up a time.
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
+| Monday    | 8:30am - 5:00pm |
 | Tuesday   | 8:30am - 5:00pm |
 | Wednesday | 8:30am - 5:00pm |
 | Thursday  | 8:30am - 5:00pm |
 | Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+| Saturday  | By appointment  |
+| Sunday    | Closed          |
